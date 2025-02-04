@@ -1,0 +1,21 @@
+#main_title{
+    text-align: center;
+    background-color: rgb(91, 91, 91);
+    color: whitesmoke;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.box1 h2{
+    float: left;
+
+}
+
+.box1 button{
+    float: right;
+}
+
+.container{
+    margin-top: 50px;
+}
